@@ -10,6 +10,6 @@ This is a simple Flutter-based todo list application that allows users to add, m
 - Uses Flutter Slidable for swipe-to-delete functionality
 
 ## Technologies:
-Flutter (Dart)
-flutter_slidable for swipe actions
-Material Design
+- Flutter (Dart)
+- flutter_slidable for swipe actions
+- Material Design
